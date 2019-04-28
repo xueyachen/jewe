@@ -1,0 +1,1 @@
+{{$res->goods_name}}
